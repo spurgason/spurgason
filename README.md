@@ -1,6 +1,6 @@
 # Hi there, I'm Shane 👋
 
-- 🔭 I’m currently working on a text based adventure game using React.js.
+- 🔭 I’m currently working on a weather application that uses React.js.
 - 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on exciting and interactive React projects.
 - 💬 Ask me about anything (please don't be a hard question 😆).
