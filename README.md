@@ -1,27 +1,14 @@
-# Hi there, I'm Shane 👋
+## Hello, I'm Shane 
 
-- 🔭 I’m currently working on a weather application that uses React.js.
-- 🌱 I’m currently learning React.js.
-- 👯 I’m looking to collaborate on exciting and interactive React projects.
-- 💬 Ask me about anything (please don't be a hard question 😆).
-- ⚡ Fun fact: I am a huge Star Wars fan.
+I work as a Full-Stack Flex (MERN stack) instructor and tutor at Trilogy Education. I am currently based in Wilmington, North Carolina.
 
-### Contact Me:
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shanepurgason.98@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/spurgason)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ozzyisoreo/)
+I have been developing my coding skills since 2021 once I found my passion for coding. Since then, I have spent my time learning new technolgies and and enforcing my current understanding of programming. I emphasaize on responsive and dynamic websites, or applications that enguage users while bringing value to their everyday lives. 
 
-### Technologies: 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+As a developer, I am always finding ways to grow and expand my knowledge because learning something new is always exciting. I enjoy working on collaborative projects where my skills can be put to use to create easy-to-use and enjoyable applications. Outside of coding I enjoy learning new languages and reading clasical litirature.
+
+## What I'm up to
+Currently, I am working on enforcing my skills in React, JavaScript, Python, and React Native. Also, I am broadening my knowledge in SQL and NoSQL databases. 
+
+As for learning new things, I am teaching myself machine learning with Python & R as well as advanced JavaScript algorithms and data structures. 
+
+## Where to find me
