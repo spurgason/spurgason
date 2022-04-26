@@ -5,7 +5,7 @@
 
 I work as a Full-Stack Flex (MERN stack) instructor and tutor at Trilogy Education. I am currently based in Wilmington, North Carolina.
 
-I have been developing my coding skills since 2021 once I found my passion for coding. Since then, I have spent my time learning new technolgies and and enforcing my current understanding of programming. I emphasaize on responsive and dynamic websites, or applications that enguage users while bringing value to their everyday lives. 
+I have experience in developing applications and learning new technolgies while enforcing my current understanding of programming. I emphasaize on responsive and dynamic websites, or applications that enguage users while bringing value to their everyday lives. 
 
 As a developer, I am always finding ways to grow and expand my knowledge because learning something new is always exciting. I enjoy working on collaborative projects where my skills can be put to use to create easy-to-use and enjoyable applications. Outside of coding I enjoy learning new languages and reading clasical litirature.
 
