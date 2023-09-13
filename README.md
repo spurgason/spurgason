@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shane, a Web Developer with a passion for crafting awesome digital experiences. Whether you're here to check out my work or just stumbled upon this README by accident, welcome to my corner of the coding universe!
+# Hi there! 👋 I'm Shane, a Web Developer!
 
 ## Who Am I?
 
